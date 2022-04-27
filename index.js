@@ -1,6 +1,11 @@
-// Import stylesheets
-import './style.css';
-
-// Write Javascript code!
-const appDiv = document.getElementById('app');
-appDiv.innerHTML = `<h1>JS Starter</h1>`;
+{
+  "name": "gorest_validation",
+  "version": "1.0.4",
+  "description": "none",
+  "main": "index.js",
+  "scripts": {
+    "test": "gorest-test"
+  },
+  "author": "JTC",
+  "license": "ISC"
+}
